@@ -1,0 +1,5 @@
+node -v 10.24.0
+npm -v 6.14.11
+nvm -v 0.35.3
+puppeteer@7.1.0
+Chromium r848005
